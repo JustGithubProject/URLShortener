@@ -1,4 +1,8 @@
 {
- "http://185.126.115.49/38b9ff40cc6275c80c1b99514e3b04b0": "https://www.geeksforgeeks.org/golang-project-ideas/",
- "http://185.126.115.49/71a32f90f96f28f19119916dc35b1416": "https://www.twitch.tv/morphilina"
+ "http://localhost:8080/19cbc241fa0814a35e05dfcac5f1d9d5": "https://www.twitch.tv/rostislav_999",
+ "http://localhost:8080/38b9ff40cc6275c80c1b99514e3b04b0": "https://www.geeksforgeeks.org/golang-project-ideas/",
+ "http://localhost:8080/71a32f90f96f28f19119916dc35b1416": "https://www.twitch.tv/morphilina",
+ "http://localhost:8080/93d66c453046dce8969f309a9ff46694": "http://localhost:8080/form",
+ "http://localhost:8080/98212f2ddcc2130a956e77eaf6425589": "https://stackoverflow.com/questions/38110875/how-to-display-html-string-as-a-web-page-using-golang-http-responsewriter",
+ "http://localhost:8080/cb350653bdc4211a838ea9227ce04d76": "https://pkg.go.dev/text/template"
 }
