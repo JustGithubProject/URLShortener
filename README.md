@@ -13,3 +13,5 @@
 4. Open the storage.json and copy key of your source URL (
     it looks like that: http://localhost:8080/cb350653bdc4211a838ea9227ce04d76
 )
+
+5. Place this URL in your browser
